@@ -1,0 +1,16 @@
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.exe
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.deps.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.dev.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ref\ejercicio1.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\bin\Debug\net5.0\ejercicio1.pdb
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ref\ejercicio1.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb
+C:\Users\ferna\OneDrive\Documentos\Programacion\retos-codigo\ejercicio1\obj\Debug\net5.0\ejercicio1.genruntimeconfig.cache
